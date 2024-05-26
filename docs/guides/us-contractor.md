@@ -1,3 +1,12 @@
+---
+layout: default
+title: US Contractor
+path: us_contractor
+nav_enabled: true
+nav_order: 1
+parent: Guides
+---
+
 ⚠️  _All of this info comes with a disclaimer that we are not experts. Definitely double check with your CA._
 
 

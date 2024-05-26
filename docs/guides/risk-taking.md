@@ -1,3 +1,12 @@
+---
+layout: default
+title: Risk Taking
+path: risk_taking
+nav_enabled: true
+nav_order: 6
+parent: Guides
+---
+
 A lot of folks here in India might look at the remote working trend as a modern-day gold rush. Suddenly there is a stream of information that highlights the success stories of folks working remotely. 
 
 We have been guilty of that as well. The [anonymous survey](https://docs.google.com/spreadsheets/d/1tj8af86fnC0aYbcrxf7XKRCxZc3tqexOg8zRKYl3k2g/edit?usp=sharing) we did to figure out salaries certainly got people pumped up and dreaming.

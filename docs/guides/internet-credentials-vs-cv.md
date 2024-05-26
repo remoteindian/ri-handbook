@@ -1,3 +1,12 @@
+---
+layout: default
+title: Internet Credentials vs CV
+path: internet_credentials_vs_cv
+nav_enabled: true
+nav_order: 7
+parent: Guides
+---
+
 > ℹ️ &nbsp;This article was originally posted 👉 &nbsp;[https://zoomout.substack.com/p/are-internet-credentials-replacing](https://zoomout.substack.com/p/are-internet-credentials-replacing)
 
 Recently, many echo chambers I am a part of have been debating the importance and value of a ‘personal brand’. Many believe that ‘social scores’ are a replacement for skills and there are many others who believe that nothing can replace hard work.

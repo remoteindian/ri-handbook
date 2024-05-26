@@ -1,3 +1,12 @@
+---
+layout: default
+title: Work from Home
+path: work_from_home
+nav_enabled: true
+nav_order: 5
+parent: Guides
+---
+
 When I moved back to Jamshedpur, my hometown, in 2016, my family thought I was crazy. My father used to wonder whether I was doing “real work” or simply goofing around in my room.
 
 Crossing over to 2020: The pandemic has forced most of us to work from home!

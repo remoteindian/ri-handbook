@@ -1,3 +1,12 @@
+---
+layout: default
+title: Music For Productivity
+path: music_for_productivity
+nav_enabled: true
+nav_order: 4
+parent: Guides
+---
+
 I always have my headphones on while I am working.
 
 And the best part is that I can switch based on my mood/work.

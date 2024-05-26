@@ -1,3 +1,12 @@
+---
+layout: default
+title: Tax Guide
+path: tax_guide
+nav_enabled: true
+nav_order: 3
+parent: Guides
+---
+
 ⚠️ Disclaimer: This is not trivial — so you would definitely need a CA to do this for you.
 
 ## TDS or not

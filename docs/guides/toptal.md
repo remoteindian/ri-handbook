@@ -1,3 +1,12 @@
+---
+layout: default
+title: Toptal
+path: toptal
+nav_enabled: true
+nav_order: 10
+parent: Guides
+---
+
 > ⚠️&nbsp; Disclaimer: The information provided is based on our research, and we do not claim that any of the information was approved by third-parties (e.g. Toptal). We encourage all readers to do their own research.
 
 
