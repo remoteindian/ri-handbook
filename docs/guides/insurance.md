@@ -3,7 +3,7 @@ layout: default
 title: Insurance
 path: insurance
 nav_enabled: true
-nav_order: 2
+nav_order: 2.2
 parent: Guides
 ---
 

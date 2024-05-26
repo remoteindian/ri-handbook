@@ -3,7 +3,7 @@ layout: default
 title: Internet Credentials vs CV
 path: internet_credentials_vs_cv
 nav_enabled: true
-nav_order: 7
+nav_order: 2.7
 parent: Guides
 ---
 

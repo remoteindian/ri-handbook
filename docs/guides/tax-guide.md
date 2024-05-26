@@ -3,7 +3,7 @@ layout: default
 title: Tax Guide
 path: tax_guide
 nav_enabled: true
-nav_order: 3
+nav_order: 2.3
 parent: Guides
 ---
 

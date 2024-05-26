@@ -3,7 +3,7 @@ layout: default
 title: Toptal
 path: toptal
 nav_enabled: true
-nav_order: 10
+nav_order: 2.8
 parent: Guides
 ---
 

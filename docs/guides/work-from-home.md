@@ -3,7 +3,7 @@ layout: default
 title: Work from Home
 path: work_from_home
 nav_enabled: true
-nav_order: 5
+nav_order: 2.5
 parent: Guides
 ---
 

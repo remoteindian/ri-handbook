@@ -3,7 +3,7 @@ layout: default
 title: Risk Taking
 path: risk_taking
 nav_enabled: true
-nav_order: 6
+nav_order: 2.6
 parent: Guides
 ---
 

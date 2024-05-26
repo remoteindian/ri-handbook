@@ -3,7 +3,7 @@ layout: default
 title: Music For Productivity
 path: music_for_productivity
 nav_enabled: true
-nav_order: 4
+nav_order: 2.4
 parent: Guides
 ---
 
