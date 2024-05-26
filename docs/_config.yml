@@ -28,8 +28,6 @@ twitter_username: jekyllrb
 github_username:  remoteindian
 
 # Build settings
-#theme: minima
-#theme: minimal-mistakes-jekyll
 theme: just-the-docs
 plugins:
   - jekyll-feed
