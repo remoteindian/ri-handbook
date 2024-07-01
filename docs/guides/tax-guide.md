@@ -17,7 +17,7 @@ If you are working for a foreign company, you will have to take care of your tax
 
 ## Section 44ADA
 
-India has relaxed tax calculations and book keeping norms for freelancers / contractors if your income is less than 50L / year. (income, not profit).
+India has relaxed tax calculations and book keeping norms for freelancers / contractors if your income is less than 75L / year. (income, not profit).
 
 If your revenue is under 50L, and you are filing as a freelancer, you can file under their scheme in which you pay a tax flat on the 50% of your revenue without having to maintain books.
 
